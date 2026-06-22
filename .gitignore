@@ -1,0 +1,4 @@
+*.o
+loader
+loader_ringbuf
+map_reader
