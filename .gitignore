@@ -1,4 +1,2 @@
-*.o
-loader
-loader_ringbuf
-map_reader
+bin
+elf
